@@ -38,3 +38,9 @@ Instance: /home/gbenga/Documents/Projects/flask-project/instance
 ### Running the app
 
 You can run the app with `python market.py`
+
+
+### Code Formatting
+
+This project uses ruff for code formatting run `ruff format .` to format all the python files
+in the entire project.
