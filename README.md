@@ -1,1 +1,3 @@
-# flask-project
+# Market App
+
+A flask-based ecommerce app.
